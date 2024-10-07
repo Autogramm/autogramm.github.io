@@ -4,7 +4,8 @@
     <title>Tags on Autogramm</title>
     <link>https://autogramm.github.io/tags/</link>
     <description>Recent content in Tags on Autogramm</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://autogramm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://autogramm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

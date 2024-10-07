@@ -4,7 +4,8 @@
     <title>Autogramm project languages on Autogramm</title>
     <link>https://autogramm.github.io/en/languages/</link>
     <description>Recent content in Autogramm project languages on Autogramm</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://autogramm.github.io/en/languages/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://autogramm.github.io/en/languages/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

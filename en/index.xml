@@ -4,7 +4,8 @@
     <title>ANR Autogramm Project on Autogramm</title>
     <link>https://autogramm.github.io/en/</link>
     <description>Recent content in ANR Autogramm Project on Autogramm</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://autogramm.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://autogramm.github.io/en/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
